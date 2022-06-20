@@ -1,4 +1,4 @@
-# Windows Privlage Escelation Writeup
+# Windows Privlage Escalation Writeup
 ---
 
 *| Write-up by B4ndw1d7h |*
