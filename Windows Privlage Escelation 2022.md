@@ -416,3 +416,6 @@ now go back to the windows box and press modify -> repair -> repair, and you sho
 ---
 ## Conclusion
 This was a really great room as a beginner even with the little hick-ups I had regarding my own lack of knowledge in windows privesc. As a starting point I cant thank tryhackme and munra enough for the great revamp of the room!
+
+If you want to check it out for yourself head to: https://tryhackme.com/room/windowsprivesc20
+Happy Hacking!!
